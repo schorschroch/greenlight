@@ -6,7 +6,6 @@
 
 # Ignore bundler config.
 /.bundle
-vendor/bundle
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
@@ -49,4 +48,6 @@ config/terms.md
 coverage*
 
 /atom-sftp-sync.json
-greenlight.code-workspace
+
+*.code-workspace
+
